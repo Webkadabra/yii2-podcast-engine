@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about_en
 title: Yii2 module to serve audio podcasts, with episode management, playback stats & show notes
 permalink: /
 ---
