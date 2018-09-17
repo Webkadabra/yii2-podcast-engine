@@ -18,4 +18,4 @@ Yii2/PHP **application module** to host audio podcasts, with episode management,
 * Podcast notes 
 * Generate XML/RSS feed for iTunes etc
 
-**To get access to a private repo**, contact me at <devkadabra@gmail.com>.
+**Download**: https://github.com/Webkadabra/yii2-podcaster
